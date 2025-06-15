@@ -7,8 +7,8 @@ Built with **OpenCV**, **MediaPipe**, and **cross-platform system volume APIs**,
 
 ## 📸 Demo
 
-![Hand Volume Control - 85%](Screenshots/Screenshot\ From\ 2025-06-15\ 04-30-38.png)  
-![Hand Volume Control - 51%](Screenshots/Screenshot\ From\ 2025-06-15\ 04-30-53.png)
+![Hand Volume Control - 85%](Screenshots/Screenshot From 2025-06-15 04-30-38.png)  
+![Hand Volume Control - 51%](Screenshots/Screenshot From 2025-06-15 04-30-53.png)
 
 ---
 
